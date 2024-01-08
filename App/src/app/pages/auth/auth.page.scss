@@ -16,8 +16,13 @@ ion-button {
     }
 }
 ion-content{
---background:  rgba(6, 19, 77, 0.973);
+--background:  rgba(18, 45, 165, 0.973);
 }
 ion-card{
     --background: rgba(255, 252, 252, 0.973);
 }
+img{
+    display: flex;
+    align-items: center;
+    height: 500px;
+  }
