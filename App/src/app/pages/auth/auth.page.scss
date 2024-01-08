@@ -1,0 +1,23 @@
+.sign-up {
+    padding: 50px;
+}
+
+ion-button {
+    width: 170px;
+    --background: rgba(6, 19, 77, 0.973);
+
+}
+@media (min-width: 768px) {
+    form{
+        width: 500px;
+        padding: 50px 10px;
+        color: red;
+        
+    }
+}
+ion-content{
+--background:  rgba(6, 19, 77, 0.973);
+}
+ion-card{
+    --background: rgba(255, 252, 252, 0.973);
+}

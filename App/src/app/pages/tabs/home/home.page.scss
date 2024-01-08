@@ -1,0 +1,35 @@
+ion-card {
+    border-radius: 15px;
+    padding: 10px;
+    min-height: 200px;
+    border: 1px solid rgba(119, 116, 116, 0.904);
+}
+
+ion-card:hover{
+    cursor: pointer;
+    background: var(--ion-color-light);
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    line-height: 20px;
+    
+}
+
+.tarea-btn { 
+    width: 120px;
+    --background: rgba(34, 73, 247, 0.973);
+}
+
+.empty {
+    padding-top: 15vh;
+}
+ion-content{
+    --background:rgba(6, 19, 77, 0.973);
+}
+ion-button{
+    --background:rgba(6, 19, 77, 0.973);
+    margin-left:40%;
+}
